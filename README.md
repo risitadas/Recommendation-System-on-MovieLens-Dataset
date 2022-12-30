@@ -1,5 +1,5 @@
 # Recommendation-System-on-MovieLens-Dataset
-Project Overview: Knowledge-based, Content-based and Collaborative Recommender systems are built on MovieLens dataset with 100,000 movie ratings. This Recommender Systems were built using Pandas operations and by fitting KNN, SVD to suggest movies for the users based on similar users and for queries specific to genre, user, movie, rating, popularity.
+Project Overview: Knowledge-based, Content-based and Collaborative Recommender systems are built on MovieLens dataset with 100,000 movie ratings. This Recommender Systems were built using Pandas operations and by fitting KNN, SVD & deep learning models which use NLP techniques and NN architecture to suggest movies for the users based on similar users and for queries specific to genre, user, movie, rating, popularity.
 
 
 # Recommendation Systems : #
